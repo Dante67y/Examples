@@ -1,0 +1,15 @@
+D:\GeekBrains\Examples\Ex005_IfElse\bin\Debug\net6.0\Ex005_IfElse.exe
+D:\GeekBrains\Examples\Ex005_IfElse\bin\Debug\net6.0\Ex005_IfElse.deps.json
+D:\GeekBrains\Examples\Ex005_IfElse\bin\Debug\net6.0\Ex005_IfElse.runtimeconfig.json
+D:\GeekBrains\Examples\Ex005_IfElse\bin\Debug\net6.0\Ex005_IfElse.dll
+D:\GeekBrains\Examples\Ex005_IfElse\bin\Debug\net6.0\Ex005_IfElse.pdb
+D:\GeekBrains\Examples\Ex005_IfElse\obj\Debug\net6.0\Ex005_IfElse.csproj.AssemblyReference.cache
+D:\GeekBrains\Examples\Ex005_IfElse\obj\Debug\net6.0\Ex005_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Examples\Ex005_IfElse\obj\Debug\net6.0\Ex005_IfElse.AssemblyInfoInputs.cache
+D:\GeekBrains\Examples\Ex005_IfElse\obj\Debug\net6.0\Ex005_IfElse.AssemblyInfo.cs
+D:\GeekBrains\Examples\Ex005_IfElse\obj\Debug\net6.0\Ex005_IfElse.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Examples\Ex005_IfElse\obj\Debug\net6.0\Ex005_IfElse.dll
+D:\GeekBrains\Examples\Ex005_IfElse\obj\Debug\net6.0\refint\Ex005_IfElse.dll
+D:\GeekBrains\Examples\Ex005_IfElse\obj\Debug\net6.0\Ex005_IfElse.pdb
+D:\GeekBrains\Examples\Ex005_IfElse\obj\Debug\net6.0\Ex005_IfElse.genruntimeconfig.cache
+D:\GeekBrains\Examples\Ex005_IfElse\obj\Debug\net6.0\ref\Ex005_IfElse.dll
