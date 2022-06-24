@@ -1,0 +1,15 @@
+D:\GeekBrains\Examples\Ex004_div\bin\Debug\net6.0\Ex004_div.exe
+D:\GeekBrains\Examples\Ex004_div\bin\Debug\net6.0\Ex004_div.deps.json
+D:\GeekBrains\Examples\Ex004_div\bin\Debug\net6.0\Ex004_div.runtimeconfig.json
+D:\GeekBrains\Examples\Ex004_div\bin\Debug\net6.0\Ex004_div.dll
+D:\GeekBrains\Examples\Ex004_div\bin\Debug\net6.0\Ex004_div.pdb
+D:\GeekBrains\Examples\Ex004_div\obj\Debug\net6.0\Ex004_div.csproj.AssemblyReference.cache
+D:\GeekBrains\Examples\Ex004_div\obj\Debug\net6.0\Ex004_div.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Examples\Ex004_div\obj\Debug\net6.0\Ex004_div.AssemblyInfoInputs.cache
+D:\GeekBrains\Examples\Ex004_div\obj\Debug\net6.0\Ex004_div.AssemblyInfo.cs
+D:\GeekBrains\Examples\Ex004_div\obj\Debug\net6.0\Ex004_div.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Examples\Ex004_div\obj\Debug\net6.0\Ex004_div.dll
+D:\GeekBrains\Examples\Ex004_div\obj\Debug\net6.0\refint\Ex004_div.dll
+D:\GeekBrains\Examples\Ex004_div\obj\Debug\net6.0\Ex004_div.pdb
+D:\GeekBrains\Examples\Ex004_div\obj\Debug\net6.0\Ex004_div.genruntimeconfig.cache
+D:\GeekBrains\Examples\Ex004_div\obj\Debug\net6.0\ref\Ex004_div.dll
