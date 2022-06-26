@@ -23,9 +23,9 @@ void PrintArray(int[] col)
 
 int IndexOf(int[] collection, int find)
 {
-    int count = collection.Lenght;
+    int count = collection.Length;
     int index = 0;
-    int position = 1;
+    int position = -1;
     while (index < count)
     {
         if (collection[index] == find)
