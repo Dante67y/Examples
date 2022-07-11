@@ -75,18 +75,44 @@
 // Задайте одномерный массив из 123 случайных чисел. Найдите количество элементов массива,
 // значение которых лежат в отрезке [10, 99]
 
-int[] array = new int[123];
+// int[] array = new int[123];
+// for (int i = 0; i < array.Length; i++)
+// {
+//     array[i] = new Random().Next(-100, 101);
+// }
+// Console.WriteLine("[" + string.Join(", ", array) + "]");
+// int count = 0;
+// for (int i = 0; i < array.Length; i++)
+// {
+//     if (array[i] >= 10 && array[i] <= 99)
+//     {
+//         count++;
+//     }
+// }
+// Console.WriteLine(count);
+
+// Найдите произведение пар чисел в одномерном массиве. Парой считаем первый элемент и последний,
+// второй и предпоследний и т.д. Результат запишите в новом массиве
+
+int n;
+// Спрашиваем у пользователя сколько чисел будет в массиве
+Console.Write("Напишите количество чисел: ");
+n = Convert.ToInt32(Console.ReadLine());
+// Создаём массив на указанное пользователем количество элементов
+int[] array = new int[n];
+// Просим пользователя задать числа в массиве
+Console.WriteLine("Напишите числа: ");
 for (int i = 0; i < array.Length; i++)
 {
-    array[i] = new Random().Next(-100, 101);
+    array[i] = Convert.ToInt32(Console.ReadLine());
 }
-Console.WriteLine("[" + string.Join(", ", array) + "]");
-int count = 0;
-for (int i = 0; i < array.Length; i++)
+// Вводим переменную, чтобы обозначитьразделение пар (чтобы код не перемножал дважды среднюю пару
+// при четном количестве элементов)
+int len;
+if (n % 2 == 0) len = n / 2 - 1;
+else len = n / 2;
+// Выводим произведение заданных в задаче пар
+for (int i = 0; i <= len; i++)
 {
-    if (array[i] >= 10 && array[i] <= 99)
-    {
-        count++;
-    }
+    Console.WriteLine(array[i] * array[array.Length - i - 1]);
 }
-Console.WriteLine(count);
