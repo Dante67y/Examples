@@ -37,6 +37,8 @@ void PrintMatr(int[,] matrix)
     Console.Write("Сумма элементов по диагонали равна: ");
     Console.WriteLine(DiagonalSum);
 }
-int n = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите количество строк в массиве: ");
 int m = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите количество столбцов в массиве: ");
+int n = Convert.ToInt32(Console.ReadLine());
 PrintMatr(CreateMatr(m, n));
